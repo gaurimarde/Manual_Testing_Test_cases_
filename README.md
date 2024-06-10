@@ -1,4 +1,4 @@
-As part of my coursework, I worked on a project focused on quality assurance (QA) testing for the Sauce Demo application. The goal was to ensure that the app functions properly and provides a great user experience.
+As part of my coursework, I worked on a project focused on quality assurance (QA) testing . The goal was to ensure that the app functions properly and provides a great user experience.
 I wrote detailed test cases to check all the main features of the app, like logging in, viewing products, adding items to the cart, and checking out.
 I followed my test cases step by step to see if everything in the app worked correctly.
 When I found something that didn’t work, I wrote a report explaining the problem so it could be fixed.
